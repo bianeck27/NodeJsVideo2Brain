@@ -21,3 +21,13 @@
 2017/09/07 23:49:54 [notice] 13208#257384: signal process started
 2017/09/07 23:50:58 [error] 163824#271652: *48 upstream timed out (10060: FormatMessage() error:(15100)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
 2017/09/07 23:51:58 [error] 163824#271652: *48 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://[::1]:3000/", host: "localhost"
+2017/09/08 08:28:26 [emerg] 46216#26120: CreateDirectory() "c:\xampp\htdocs\cursos\NodeJsVideo2Brain\nginx-1.12.1/temp/client_body_temp" failed (3: FormatMessage() error:(15100))
+2017/09/08 08:30:13 [notice] 33208#3192: signal process started
+2017/09/08 08:30:13 [error] 33208#3192: CreateFile() "c:\xampp\htdocs\cursos\NodeJsVideo2Brain\nginx-1.12.1/logs/nginx.pid" failed (2: FormatMessage() error:(15100))
+2017/09/08 08:30:21 [notice] 39868#46588: signal process started
+2017/09/08 08:30:21 [error] 39868#46588: CreateFile() "c:\xampp\htdocs\cursos\NodeJsVideo2Brain\nginx-1.12.1/logs/nginx.pid" failed (2: FormatMessage() error:(15100))
+2017/09/08 08:30:29 [notice] 35060#15720: signal process started
+2017/09/08 08:30:29 [error] 35060#15720: CreateFile() "c:\xampp\htdocs\cursos\NodeJsVideo2Brain\nginx-1.12.1/logs/nginx.pid" failed (2: FormatMessage() error:(15100))
+2017/09/08 08:30:31 [notice] 31044#30188: signal process started
+2017/09/08 08:30:31 [error] 31044#30188: CreateFile() "c:\xampp\htdocs\cursos\NodeJsVideo2Brain\nginx-1.12.1/logs/nginx.pid" failed (2: FormatMessage() error:(15100))
+2017/09/08 08:30:37 [emerg] 24160#24120: CreateDirectory() "c:\xampp\htdocs\cursos\NodeJsVideo2Brain\nginx-1.12.1/temp/client_body_temp" failed (3: FormatMessage() error:(15100))
